@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1718804953 source:c:\users\esaie dansou\documents\code c++\galerie d'image\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<algorithm>
+	<sstream>
+
+1719052045 source:c:\users\lenovo\downloads\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<algorithm>
+	<sstream>
+
